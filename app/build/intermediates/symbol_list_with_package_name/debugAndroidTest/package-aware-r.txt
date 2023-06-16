@@ -1,0 +1,3 @@
+com.tinne.finalproject4.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

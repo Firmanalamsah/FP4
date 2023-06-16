@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-hdpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-hdpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_splash.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_reserved.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/reserved.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxhdpi_ic_launcher0_round.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xxhdpi/ic_launcher0_round.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher0_round.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xxxhdpi/ic_launcher0_round.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_ic_launcher0_foreground.xml.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/drawable/ic_launcher0_foreground.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_payment.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_imgresult.png.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/imgresult.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_result_home.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_result_home.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-xhdpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-xhdpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xhdpi_ic_launcher0_round.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xhdpi/ic_launcher0_round.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-mdpi_ic_launcher0.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-mdpi/ic_launcher0.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-hdpi_ic_launcher0_round.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-hdpi/ic_launcher0_round.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher0.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xxxhdpi/ic_launcher0.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_bus2.jpg.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/bus2.jpg"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_result.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/result.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_bus4.jpg.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/bus4.jpg"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_back.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/back.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_ic_launcher0_background.xml.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/drawable/ic_launcher0_background.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/xml_backup_rules.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher0_round.xml.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-anydpi-v26/ic_launcher0_round.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_ed_border.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/ed_border.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_bus1.jpg.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/bus1.jpg"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_ic_mandiri.png.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/ic_mandiri.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_available.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/available.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_choose_seat.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_choose_seat.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logoresultberangkat.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logoresultberangkat.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-hdpi_ic_launcher0.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-hdpi/ic_launcher0.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_btn_shape.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/btn_shape.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_bus3.jpg.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/bus3.jpg"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_btn_bordershape.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/btn_bordershape.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_result_layout.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/result_layout.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-xxxhdpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-xxxhdpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_star.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/star.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-mdpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-mdpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_selected.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/selected.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-xxhdpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-xxhdpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_imghome.png.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/imghome.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xhdpi_ic_launcher0.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xhdpi/ic_launcher0.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_card_main_menu.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/card_main_menu.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-ldpi_logodate.png.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-ldpi/logodate.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-mdpi_ic_launcher0_round.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-mdpi/ic_launcher0_round.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_login.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_linehome.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/linehome.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logoresultsampai.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logoresultsampai.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable-anydpi-v24_logodate.xml.flat",
+        "source": "com.tinne.finalproject4.app-pngs-1:/drawable-anydpi-v24/logodate.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_home_input.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_home_input.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logoto.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logoto.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_detail_result.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_detail_result.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_register.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_or.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/or.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_card_button_purpple.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/card_button_purpple.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_bushome.png.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/bushome.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxhdpi_ic_launcher0.png.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-xxhdpi/ic_launcher0.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logopassanger.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logopassanger.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/layout_activity_payment_details.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_payment_details.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logo.png.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logo.png"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/drawable_logofrom.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-8:/drawable/logofrom.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher0.xml.flat",
+        "source": "com.tinne.finalproject4.app-debug-7:/mipmap-anydpi-v26/ic_launcher0.xml"
+    }
+]

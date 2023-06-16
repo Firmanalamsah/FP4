@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_result_home.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_result_home.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_detail_result.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_detail_result.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_choose_seat.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_choose_seat.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_payment_details.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_payment_details.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_payment.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/result_layout.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/result_layout.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_splash.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_home_input.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_home_input.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_login.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-5:/layout/activity_register.xml",
+        "source": "com.tinne.finalproject4.app-main-8:/layout/activity_register.xml"
+    }
+]
